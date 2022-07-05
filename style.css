@@ -77,3 +77,22 @@ h6{
     font-size: 15px;
     padding-left: 9px;
 }
+.eva{
+    box-shadow: 10px 5px solid white;
+    width: auto;
+}
+.kha-img{
+    max-height: 500%;
+}
+.light{
+    height: 300px;
+    width: 100%;
+}
+.day{
+    height: 300px;
+    width: 85%;
+    box-shadow:10px 10px white ;
+}
+.she{
+    width: 50%;
+}
